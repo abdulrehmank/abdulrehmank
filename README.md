@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Abdul Rehman Khairdi, a software engineer based out of India. 
+
 <!--
 **abdulrehmank/abdulrehmank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
